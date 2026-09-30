@@ -1,8 +1,11 @@
 ---
 name: student-study-framework
-description: This skill should be used when building or maintaining a high-school student's study plan, bridging knowledge gaps (scan gaps → bridge), daily execution loops, weekly task sheets, or a local-LLM question-generation + cloud-grading pipeline. It encodes a reusable "scan gaps → bridge" methodology, a 5-step daily loop, an Ollama local question-generation setup, and a parameterized red-line checklist, generalized across students via replaceable parameters (subject / exam year / target band / main textbooks).
+display_name: 高中生学习工程框架
+display_name_en: High-School Study Engineering Framework
+description: Reusable high-school study-engineering framework — scan gaps → bridge, 5-step daily loop, local Ollama question generation + cloud grading, parameterized red-line checklist.
 description_zh: 一套可复用的高中生学习工程方法论框架（适用于 WorkBuddy 智能体）。涵盖扫盲点→搭桥、每日五步闭环、本机 Ollama 出题+云端判读、参数化红线清单；含思路起源、前置依赖与效果边界。已完全脱敏。
 description_en: A reusable study-engineering methodology framework for high-school students (for WorkBuddy agents). Covers scan-gaps→bridge, a 5-step daily loop, local Ollama question-generation + cloud grading, and a parameterized red-line checklist. Fully anonymized.
+category: education
 version: 1.0.0
 author: egplnt
 agent_created: true
