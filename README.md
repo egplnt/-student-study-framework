@@ -15,6 +15,11 @@
 
 > **设计与心法背景**见 [`ORIGIN.md`](ORIGIN.md)；**前置依赖与效果边界**见 [`SKILL.md`](SKILL.md) 开头（必读）。
 
+## 仓库与发布状态
+
+- **GitHub 仓库**：https://github.com/egplnt/-student-study-framework（已发布，含完整源码、LICENSE 与 Release 下载）
+- **WorkBuddy 官方技能市场（SkillHub）**：已提交审核，预计约 7 个工作日完成；审核通过后所有用户可在客户端「技能」入口搜索安装。
+
 ## 安装
 
 ### 方式一：本地放置（推荐，零门槛）
@@ -28,7 +33,7 @@
 
 ### 方式二：WorkBuddy 官方技能市场（SkillHub）
 
-本 skill 也可上架 WorkBuddy 官方技能市场（SkillHub），审核通过后所有用户可在客户端技能入口搜索安装。开发者提交流程与包规范见 [WorkBuddy 开放平台技能文档](https://open.workbuddy.cn/docs/skill)。
+本 skill 已提交 WorkBuddy 官方技能市场（SkillHub）审核（预计约 7 个工作日）。审核通过后所有用户可在客户端「技能」入口搜索安装；当前也可通过方式一本地放置使用。开发者提交流程与包规范见 [WorkBuddy 开放平台技能文档](https://open.workbuddy.cn/docs/skill)。
 
 ## 使用
 
