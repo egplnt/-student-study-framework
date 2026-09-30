@@ -26,9 +26,9 @@
 
 可直接 `git clone` 或下载 ZIP 解压，保证目录内含 `SKILL.md` 即可。重启 WorkBuddy 或在对话中提及本 skill 即触发。
 
-### 方式二：WorkBuddy 官方技能市场
+### 方式二：WorkBuddy 官方技能市场（SkillHub）
 
-如需让陌生人也搜到，需走官方提交流程（审核后出现在「安装 skill」列表）。详见 WorkBuddy 官方文档。
+本 skill 也可上架 WorkBuddy 官方技能市场（SkillHub），审核通过后所有用户可在客户端技能入口搜索安装。开发者提交流程与包规范见 [WorkBuddy 开放平台技能文档](https://open.workbuddy.cn/docs/skill)。
 
 ## 使用
 
